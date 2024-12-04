@@ -1,6 +1,6 @@
 # Expo News App Starter Template 👋
 
-This is a starter template for the expo news app tutorial on my YouTube channel.
+ExpoNewsApp is a modern React Native application built using Expo, designed to deliver the latest news seamlessly. The app leverages cutting-edge tools and libraries for smooth performance, responsive design, and an intuitive user experience.
 
 ## Get started
 
